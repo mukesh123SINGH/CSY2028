@@ -1,0 +1,12 @@
+{
+  "css.styleSheets": [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    // "/websites/as1/public/ibuy.css"
+  ],
+  "intelephense.environment.documentRoot": "",
+  "path-autocomplete.pathMappings": {
+    "/": "${worksapce}/websites/as1/"
+  },
+  "path-intellisense.absolutePathTo": "${workspaceFolder}/websites/as1",
+  "path-intellisense.absolutePathToWorkspace": true
+}
